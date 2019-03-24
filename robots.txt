@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahniewait.patrickfiller.com/sitemap.xml
